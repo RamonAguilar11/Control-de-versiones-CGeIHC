@@ -4,4 +4,4 @@ No. de Cuenta: 317515048
 Grupo de Laboratorio: 02
 Grupo de Teoría: 04
 Semestre: 2025-2
-Fecha de entrega límite: 15/feberi/2025 
+Fecha de entrega límite: 15/febrero/2025 
