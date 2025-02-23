@@ -5,3 +5,5 @@ Grupo de Laboratorio: 02
 Grupo de Teoría: 04  
 Semestre: 2025-2  
 Fecha de entrega límite: 22/febrero/2025   
+
+Los Shader estan en la rama Shaders :D
